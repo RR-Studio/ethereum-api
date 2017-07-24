@@ -12,6 +12,12 @@ namespace Stock.Ethereum.Api
             return (new HexBigInteger(new BigInteger(vl))).HexValue;
         }
 
+
+        public static string ULongToHex(ulong vl)
+        {
+            return (new HexBigInteger(new BigInteger(vl))).HexValue;
+        }
+
         public static string BigintToHex(BigInteger vl)
         {
             return (new HexBigInteger(vl)).HexValue;

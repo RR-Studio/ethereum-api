@@ -7,3 +7,5 @@ Light Sync: Gets only the current state. To verify elements, needs to ask to ful
 https://medium.com/@codetractio/inside-an-ethereum-transaction-fa94ffca912f
 подтверждение транзакции
 https://ethereum.stackexchange.com/questions/6002/transaction-status
+функции
+https://ethereum.stackexchange.com/questions/2531/common-useful-javascript-snippets-for-geth/3478#3478

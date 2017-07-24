@@ -1,0 +1,8 @@
+C:\Projects\bitcoin\ethereum-api\bin\Debug\netcoreapp1.1\ethereum-api.deps.json
+C:\Projects\bitcoin\ethereum-api\bin\Debug\netcoreapp1.1\ethereum-api.runtimeconfig.json
+C:\Projects\bitcoin\ethereum-api\bin\Debug\netcoreapp1.1\ethereum-api.runtimeconfig.dev.json
+C:\Projects\bitcoin\ethereum-api\bin\Debug\netcoreapp1.1\ethereum-api.dll
+C:\Projects\bitcoin\ethereum-api\bin\Debug\netcoreapp1.1\ethereum-api.pdb
+C:\Projects\bitcoin\ethereum-api\obj\Debug\netcoreapp1.1\ethereum-api.AssemblyInfo.cs
+C:\Projects\bitcoin\ethereum-api\obj\Debug\netcoreapp1.1\ethereum-api.dll
+C:\Projects\bitcoin\ethereum-api\obj\Debug\netcoreapp1.1\ethereum-api.pdb
